@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Hide package lock file
+package-lock.json
+
 # Environment variables and secrets
 .env
 .env.*
